@@ -9,7 +9,7 @@
     <packaging>war</packaging>
 
     <name>eventr</name>
-
+    
     <properties>
         <version.thorntail>2.2.0.Final</version.thorntail>
         <version.mysql>8.0.12</version.mysql>
